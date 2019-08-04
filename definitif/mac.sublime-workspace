@@ -1,0 +1,656 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tile",
+				"tile"
+			],
+			[
+				"li",
+				"line_tiles"
+			],
+			[
+				"te",
+				"text_win"
+			],
+			[
+				"re",
+				"restart"
+			],
+			[
+				"G",
+				"Game"
+			],
+			[
+				"g",
+				"game"
+			],
+			[
+				"find",
+				"find_tile"
+			],
+			[
+				"gua",
+				"Guardian"
+			],
+			[
+				"r",
+				"row"
+			],
+			[
+				"test",
+				"test_limits"
+			],
+			[
+				"c",
+				"component"
+			],
+			[
+				"N",
+				"Needle"
+			],
+			[
+				"T",
+				"Tube"
+			],
+			[
+				"ba",
+				"bag"
+			],
+			[
+				"b",
+				"bag"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"ra",
+				"raise"
+			],
+			[
+				"f",
+				"find_tile"
+			],
+			[
+				"Flo",
+				"floor_image"
+			],
+			[
+				"tst",
+				"test_component"
+			],
+			[
+				"fi",
+				"find_tile"
+			],
+			[
+				"ti",
+				"tiles"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"n",
+				"Needle"
+			],
+			[
+				"line",
+				"line_tiles"
+			],
+			[
+				"M",
+				"McGyver"
+			],
+			[
+				"i",
+				"images"
+			],
+			[
+				"ima",
+				"images"
+			],
+			[
+				"w",
+				"window"
+			],
+			[
+				"fl",
+				"floor_image"
+			],
+			[
+				"ma",
+				"maze"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"ru",
+				"run_game"
+			],
+			[
+				"Til",
+				"tile"
+			],
+			[
+				"W",
+				"Wall"
+			],
+			[
+				"p",
+				"pass"
+			],
+			[
+				"C",
+				"Component"
+			],
+			[
+				"guar",
+				"guardian_image"
+			],
+			[
+				"ne",
+				"needle_image"
+			],
+			[
+				"ser",
+				"seringue_image"
+			],
+			[
+				"s",
+				"self"
+			],
+			[
+				"tex",
+				"text_esc"
+			],
+			[
+				"text",
+				"text_lose"
+			],
+			[
+				"he",
+				"herculanum_font"
+			],
+			[
+				"run",
+				"running"
+			],
+			[
+				"CON",
+				"count_component"
+			],
+			[
+				"WIN",
+				"window"
+			],
+			[
+				"count",
+				"count_component"
+			],
+			[
+				"co",
+				"count_component"
+			],
+			[
+				"ch",
+				"check_component"
+			],
+			[
+				"win",
+				"window"
+			],
+			[
+				"dir",
+				"direc"
+			],
+			[
+				"di",
+				"direction"
+			],
+			[
+				"m",
+				"maze"
+			],
+			[
+				"lo",
+				"load_maze"
+			],
+			[
+				"et",
+				"ether_image"
+			],
+			[
+				"tu",
+				"tube_image"
+			],
+			[
+				"h",
+				"hello_surface"
+			],
+			[
+				"arial",
+				"arial_font"
+			],
+			[
+				"wa",
+				"wall_image"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"comp",
+				"component3_pos"
+			],
+			[
+				"com",
+				"component2_pos"
+			],
+			[
+				"fin",
+				"find_component2"
+			],
+			[
+				"ran",
+				"randomize_components"
+			],
+			[
+				"v",
+				"valeur_2"
+			],
+			[
+				"index",
+				"index_2"
+			],
+			[
+				"ind",
+				"index_1"
+			],
+			[
+				"in",
+				"index_2"
+			],
+			[
+				"quest",
+				"question"
+			],
+			[
+				"qu",
+				"question_data"
+			],
+			[
+				"que",
+				"question_data"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"fil",
+				"file_path"
+			],
+			[
+				"en",
+				"entrez"
+			],
+			[
+				"l",
+				"list"
+			],
+			[
+				"question",
+				"questions"
+			],
+			[
+				"as",
+				"ask_integer"
+			],
+			[
+				"q",
+				"questions"
+			],
+			[
+				"nb",
+				"nb_mystere"
+			],
+			[
+				"de",
+				"def\tFunction"
+			],
+			[
+				"u",
+				"user_answer"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 99,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: p",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"SublimeREPL: Python"
+			],
+			[
+				"package control ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"View Package File"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/clementbutor/Desktop/OC/Projet 3/definitif/game.py",
+		"/Users/clementbutor/Desktop/OC/Projet 3/definitif/maze.py",
+		"/Users/clementbutor/Desktop/OC/Projet 3/definitif/bag.py",
+		"/Users/clementbutor/Desktop/OC/Projet 3/component.py",
+		"/Users/clementbutor/Desktop/OC/Projet 3/tiles.py",
+		"/Users/clementbutor/Desktop/OC/Projet 3/direction.py",
+		"/Users/clementbutor/Desktop/OC/Projet 3/definitif/gui.py",
+		"/Users/clementbutor/Desktop/OC/Projet 3/definitif/level.txt",
+		"/Users/clementbutor/Desktop/OC/Projet 3/macgyver_texte.txt",
+		"/Users/clementbutor/Desktop/OC/Python/nb_entier2.py",
+		"/Users/clementbutor/Desktop/OC/Python/test.py",
+		"/Users/clementbutor/Desktop/OC/Python/fonctions.py",
+		"/Users/clementbutor/Desktop/OC/Python/devine_un_nb.py",
+		"/Users/clementbutor/Desktop/OC/Python/QCM.py",
+		"/Users/clementbutor/Desktop/OC/Projet 3/try.py",
+		"/Users/clementbutor/Desktop/OC/Python/py.py",
+		"/Users/clementbutor/Downloads/labyrinthe (1).py",
+		"/Users/clementbutor/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/clementbutor/Desktop/Projet_git/projet_2_github/alumnis/content/students/clement01.md",
+		"/Users/clementbutor/Desktop/Projet_git/projet_2_github/alumnis/content/students/clement1.md",
+		"/Users/clementbutor/Desktop/Projet_git/projet_2_github/alumnis/content/students/clement.md",
+		"/Users/clementbutor/Desktop/Pojet_git/checklist_apprendre_a_coder.md",
+		"/Users/clementbutor/Desktop/OC/Python/questions.json",
+		"/Users/clementbutor/Desktop/OC/Python/QCM4.py",
+		"/Users/clementbutor/Desktop/OC/Python/QCM3.py",
+		"/Users/clementbutor/Desktop/OC/Python/QCM2.py",
+		"/Users/clementbutor/Desktop/OC/Python/try_turtle.py",
+		"/Users/clementbutor/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+		"/Users/clementbutor/Desktop/OC/Python/encodoge_d'origine_sublimeREPL.py",
+		"/Users/clementbutor/Library/Application Support/Sublime Text 3/Packages/User/python3_repl.sublime-build",
+		"/Users/clementbutor/Desktop/OC/Python/untitled.py",
+		"/Users/clementbutor/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/Users/clementbutor/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/clementbutor/Desktop/OC/Python/bi.py",
+		"/Users/clementbutor/Desktop/OC/Python/nb_entier.py",
+		"/Users/clementbutor/Library/Application Support/Sublime Text 3/Packages/User/Python3.sublime-build",
+		"/Users/clementbutor/Desktop/OC/Python/bissextile_2.py",
+		"/Users/clementbutor/Desktop/OC/Python/boucle.py",
+		"/Users/clementbutor/Desktop/OC/Python/bissextile_1.py",
+		"/Users/clementbutor/Downloads/results (1).json",
+		"/Users/clementbutor/Desktop/Python/test.py"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 163.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"randomize_components",
+			")\n",
+			"3",
+			"game",
+			"self.tiles",
+			"print",
+			"isinstance",
+			"print",
+			"draw",
+			"find",
+			"self.",
+			"pos",
+			"Game",
+			"tiles",
+			"test_limits",
+			"pos",
+			"Game",
+			"images =",
+			"image",
+			" ):",
+			"wall_image",
+			"GUI",
+			"gui",
+			"Item"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Tile"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 99,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								99,
+								99
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 57.0
+	},
+	"input":
+	{
+		"height": 57.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 303.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 150.0
+	},
+	"pinned_build_system": "Packages/User/Python3.sublime-build",
+	"project": "mac.sublime-project",
+	"replace":
+	{
+		"height": 110.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/OC/Projet 3/maze2.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
